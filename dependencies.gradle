@@ -38,7 +38,7 @@ dependencies {
     api 'com.github.GTNewHorizons:ModularUI2:2.2.2-1.7.10:dev'
     api 'com.github.GTNewHorizons:GTNHLib:0.2.4:dev'
     api 'com.gregoriust.gregtech:gregtech_1.7.10:6.16.02:dev'
-    compileOnlyApi("com.github.GTNewHorizons:NotEnoughItems:2.5.4-GTNH:dev")
+    implementation("com.github.GTNewHorizons:NotEnoughItems:2.5.4-GTNH:dev")
     api 'com.github.GTNewHorizons:CodeChickenCore:1.1.11:dev'
     api 'curse.maven:journeymap-32274:4500659'
 //    compileOnly(deobfCurse('xaeros-minimap-263420:4905582'))
